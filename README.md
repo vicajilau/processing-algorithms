@@ -7,4 +7,4 @@ Se aplican a la búsqueda de un camino desde el nodo origen al nodo destino de u
 ## Descargar el proyecto
 En el directorio principal de este repositorio, dentro de la carpeta de CODE tienes disponibles todos los ficheros fuentes Java para trabajar y puedes descargar todos los ficheros y abrirlos desde Processing desde donde se pueden ejecutar y modificar
 
-[Imgur](https://i.imgur.com/AGjWLKt.png)
+![alt text](https://github.com/vicajilau/processing-algorithms/blob/master/images/running.png?raw=true)
